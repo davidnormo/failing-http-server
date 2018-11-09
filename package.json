@@ -1,0 +1,16 @@
+{
+  "name": "failing-http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "start",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
