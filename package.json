@@ -1,7 +1,7 @@
 {
   "name": "failing-http-server",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "A server for testing service failures",
   "main": "index.js",
   "bin": "start",
   "scripts": {
@@ -9,7 +9,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:davidnormo/failing-http-server.git"
+  },
   "dependencies": {
     "yargs": "^12.0.2"
   }
